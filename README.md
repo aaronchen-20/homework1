@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 00000001
 
 This homework will help you get familiar with git and github, tools you'll be using later on in this class and your career. At the end of this exercise, you should have created two branches, created a merge conflict, resolved it, and then pushed the results to your github repository. 
 
